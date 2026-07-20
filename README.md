@@ -1,6 +1,6 @@
 # Casino y RPG en Consola (Python)
 
-Aplicacion de consola que combina minijuegos de casino (Tragamonedas y Blackjack) y uno interactivo de exploración y combate (RPG)Guarda las partidas del RPG en un archivo local.
+Aplicacion de consola que combina minijuegos de casino (Tragamonedas y Blackjack) y uno interactivo de exploración y combate (RPG). Guarda las partidas del juego RPG en un archivo local CSV.
 
 El desarrollo está estructurado de forma modular.
 
